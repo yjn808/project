@@ -1,0 +1,10 @@
+p01_location_hal\cjson.o: common\cJSON.c
+p01_location_hal\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+p01_location_hal\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+p01_location_hal\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+p01_location_hal\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+p01_location_hal\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+p01_location_hal\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+p01_location_hal\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\float.h
+p01_location_hal\cjson.o: common\cJSON.h
+p01_location_hal\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
